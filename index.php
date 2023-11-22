@@ -1,6 +1,6 @@
 <?php
 
-header('content-type: image/jpeg');
+header('Content-type: image/jpeg');
 header('thaivu: aaa');
 
 ?>
